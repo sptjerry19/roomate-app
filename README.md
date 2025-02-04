@@ -6,11 +6,11 @@ Dự án **Tìm Phòng Trọ** là một ứng dụng web giúp người dùng t
 
 - **Backend**: Laravel (PHP framework)
 - **Frontend**: Vue.js (JavaScript framework)
-- **CSS Framework**: Tailwind CSS hoặc Bootstrap (tùy chọn)
+- **CSS Framework**: Tailwind CSS
 - **Build Tool**: Laravel Mix (Webpack wrapper)
 - **Database**: MySQL
-- **Authentication**: Laravel Sanctum hoặc Passport (tùy chọn)
-- **API**: RESTful API hoặc GraphQL (tùy chọn)
+- **Authentication**: JWT-auth
+- **API**: RESTful API
 
 ## Tính năng chính
 
